@@ -1,4 +1,4 @@
-# Point Address Locator Creation with ArcPy
+# Creating a Point Address Locator
 
 This repository contains a script for creating a point address locator using ArcPy. The locator is designed to work with a master address table containing addresses in Mecklenburg County. The script sets up the necessary environment, checks the ArcPy version, and creates the locator using specified field mappings.
 

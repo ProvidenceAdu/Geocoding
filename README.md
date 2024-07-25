@@ -59,7 +59,7 @@ languagecode = 'ENG'
                              
 arcpy.geocoding.CreateLocator(countrycode, primary_table, field_mapping, out_locator, languagecode, None, None, None, "GLOBAL_HIGH")
 
-### Running the Script in the Future
+** Running the Script in the Future
 If you need to create a locator for a new master address table (e.g., MAT2023):
 
 Use Find and Replace to update the fields and run the script.

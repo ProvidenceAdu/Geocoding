@@ -15,7 +15,7 @@ Ensure you have the following installed:
 
 ### Import Libraries
 
-```python
+
 import arcpy 
 import pandas as pd 
 import numpy as np
